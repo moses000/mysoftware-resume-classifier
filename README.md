@@ -3,7 +3,7 @@
 Welcome to the **CV Classifier**, an AI-powered solution to streamline hiring by automatically screening CVs. This system uses [Cherry Studio AI](https://www.cherry-ai.com/) for document processing and insightful explanations, and scikit-learn for accurate classification, helping businesses save time, find top talent, and reduce recruitment costs.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Issues](https://img.shields.io/github/issues/moses000/mysoftware-resume-classifier)](https://github.com/your-username/cv-classifier/issues)
+[![GitHub Issues](https://img.shields.io/github/issues/your-username/cv-classifier)](https://github.com/your-username/cv-classifier/issues)
 
 ## 📋 Overview
 
@@ -20,14 +20,14 @@ This high-level flowchart shows how the CV Classifier helps you hire top candida
 
 ```mermaid
 graph TD
-    A[Start: Job Applicants<br>Submit CVs] -->|Upload CVs| B[Web Portal]
+    A[Start: Job Applicants Submit CVs] -->|Upload CVs| B[Web Portal]
     B -->|Automatic Screening| C[Smart CV Analyzer]
-    C -->|Review Results| D[Get Results:<br>Good/Bad Rating + Explanation]
-    D --> E[Hire Top Candidates<br>Faster]
+    C -->|Review Results| D[Get Results: Good/Bad Rating + Explanation]
+    D --> E[Hire Top Candidates Faster]
     
     subgraph Why It Works
-        W1[Trained on Thousands<br>of CVs] --> C
-        W2[Powered by AI<br>(Cherry Studio AI)] --> C
+        W1[Trained on Thousands of CVs] --> C
+        W2[Powered by AI (Cherry Studio AI)] --> C
     end
     
     subgraph Business Benefits
@@ -203,9 +203,11 @@ Scalable: Handles hundreds of CVs with consistent accuracy.
 🛠️ Troubleshooting
 
 Diagram Not Rendering:
-Ensure `````mermaid is used in Markdown.
-Test in Mermaid Live Editor.
-Refresh the page or check for syntax errors.
+Ensure `````mermaid is used (not orpython).
+Avoid HTML tags (e.g., <br>) in Mermaid labels; use plain text or \n for line breaks.
+Test in Mermaid Live Editor to debug syntax.
+Refresh the page or try another browser.
+See GitHub Mermaid Docs for supported syntax.
 
 
 API Issues:
@@ -237,4 +239,4 @@ This project is licensed under the MIT License. See LICENSE for details.
 📬 Contact
 For questions, open an issue or contact your-email@example.com.
 
-Built with ❤️ by [Imoleayo Moses] to revolutionize hiring with AI.```
+Built with ❤️ by [Your Name] to revolutionize hiring with AI.```
