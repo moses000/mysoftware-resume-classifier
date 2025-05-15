@@ -35,6 +35,7 @@ graph TD
         B2[Find Better Hires] --> E
         B3[Reduce Costs] --> E
     end
+    %% Training Phase (Offline)
 
 How It Works (Business Perspective):
 
