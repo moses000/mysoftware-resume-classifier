@@ -35,8 +35,7 @@ graph TD
         B2[Find Better Hires] --> E
         B3[Reduce Costs] --> E
     end
-    %% Training Phase (Offline)
-
+```
 How It Works (Business Perspective):
 
 Submit CVs: Applicants upload CVs (PDF, Word, or text) via a user-friendly web portal.
