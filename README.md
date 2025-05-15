@@ -1,8 +1,9 @@
 # CV Classifier
 
-Welcome to the **Resume/CV Classifier**, an AI-powered solution to streamline hiring by automatically screening CVs. This system uses [Cherry Studio AI](https://www.cherry-ai.com/) for document processing and insightful explanations, and scikit-learn for accurate classification, helping businesses save time, find top talent, and reduce recruitment costs.
+Welcome to the **CV Classifier**, an AI-powered solution to streamline hiring by automatically screening CVs. This system uses [Cherry Studio AI](https://www.cherry-ai.com/) for document processing and insightful explanations, and scikit-learn for accurate classification, helping businesses save time, find top talent, and reduce recruitment costs.
 
-[![GitHub Issues](https://img.shields.io/github/issues/moses000/resume-classifier)](https://github.com/your-username/cv-classifier/issues)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub Issues](https://img.shields.io/github/issues/moses000/mysoftware-resume-classifier)](https://github.com/your-username/cv-classifier/issues)
 
 ## 📋 Overview
 
@@ -13,7 +14,7 @@ The CV Classifier automates CV screening by rating resumes as "Good" or "Bad" ba
 
 ## 📊 Workflows
 
-### Business/process Flow
+### Business Flow (For Business Owners)
 
 This high-level flowchart shows how the CV Classifier helps you hire top candidates faster, without technical complexity.
 
@@ -236,4 +237,4 @@ This project is licensed under the MIT License. See LICENSE for details.
 📬 Contact
 For questions, open an issue or contact your-email@example.com.
 
-Built with ❤️ by [Your Name] to revolutionize hiring with AI.```
+Built with ❤️ by [Imoleayo Moses] to revolutionize hiring with AI.```
