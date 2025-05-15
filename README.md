@@ -20,7 +20,7 @@ This high-level flowchart shows how the CV Classifier helps you hire top candida
 
 ```mermaid
 graph TD
-    A[Start: Job Applicants Submit CVs] -->|Upload CVs| B[Web Portal]
+    A[Start: Job Applicants Submit CVs] -->|Upload CVs| B[OWS Interface]
     B -->|Automatic Screening| C[Smart CV Analyzer]
     C -->|Review Results| D[Get Results: Good/Bad Rating + Explanation]
     D --> E[Hire Top Candidates Faster]
