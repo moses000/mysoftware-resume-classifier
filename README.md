@@ -3,7 +3,7 @@
 Welcome to the **CV Classifier**, an AI-powered solution to streamline hiring by automatically screening CVs. This system uses [Cherry Studio AI](https://www.cherry-ai.com/) for document processing and insightful explanations, and scikit-learn for accurate classification, helping businesses save time, find top talent, and reduce recruitment costs.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Issues](https://img.shields.io/github/issues/your-username/cv-classifier)](https://github.com/your-username/cv-classifier/issues)
+[![GitHub Issues](https://img.shields.io/github/issues/your-username/cv-classifier)](https://github.com/moses000/mysoftware-resume-classifier/issues)
 
 ## 📋 Overview
 
@@ -222,9 +222,9 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ## 📬 Contact
 
-For questions, open an issue or contact [your-email@example.com](mailto:your-email@example.com).
+For questions, open an issue or contact [im.imoleayomoses@gmail.com](mailto:im.imoleayomoses@gmail.com).
 
 ---
 
-*Built with ❤️ by [Your Name] to revolutionize hiring with AI.*
+*Built with ❤️ by [[Imoleayo Moses](https://moses000.github.io/imoleayomoses.github.io/)] to revolutionize hiring with AI.*
 ```
