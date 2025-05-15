@@ -57,11 +57,11 @@ This sequence diagram illustrates the arrow flow architecture, detailing the int
 
 ```mermaid
 sequenceDiagram
-    participant U as User/UI
-    participant F as FastAPI Backend
-    participant C as Cherry Studio AI
-    participant S as Scikit-learn Model
-    participant D as Dataset (Kaggle)
+    participant U as User/UI - Orih Innocent
+    participant F as FastAPI Backend - Semiu + Ibrahim
+    participant C as Cherry Studio AI - Tony + Moses
+    participant S as Scikit-learn Model - Moses + Ibrahim
+    participant D as Dataset (Kaggle) - Semiu
 
     %% Main Workflow
     U->>F: POST /cv/predict (CV File, API Key)
