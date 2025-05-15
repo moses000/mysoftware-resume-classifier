@@ -27,7 +27,7 @@ graph TD
     
     subgraph Why It Works
         W1[Trained on Thousands of CVs] --> C
-        W2[Powered by AI (Cherry Studio AI)] --> C
+        W2[Powered by AI Cherry Studio AI] --> C
     end
     
     subgraph Business Benefits
